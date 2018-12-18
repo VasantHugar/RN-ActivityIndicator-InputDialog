@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "my-app",
+    "name": "Activity-InputDialog",
     "description": "This project is really great.",
-    "slug": "my-app",
+    "slug": "Activity-InputDialog",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": ["ios", "android"],
