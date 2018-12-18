@@ -2,7 +2,7 @@ import React from 'react';
 import { View } from 'react-native';
 import Dialog from "react-native-dialog";
 
-export default class InputAlert extends React.Component {
+export default class InputDialog extends React.Component {
 
     state = {
         counterName: ''
